@@ -12,8 +12,8 @@ baseurl: /burrrp/
 title: Nomad
 description: travel, tech, experience dairies
 cover: assets/images/blog-cover.svg
-logo: assets/images/logo-unk.png
-logo_dark: assets/images/logo-unk.png
+logo: assets/images/blog-icon.png
+logo_dark: assets/images/blog-icon.png
 favicon: assets/images/favicon.svg
 CNAME: #add cname for website to be created
 
@@ -28,6 +28,8 @@ google_analytics: G-61Z4NMMPMQ # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
