@@ -1,9 +1,14 @@
 ---
+layout: post
+current: post
 title: "Paper Towns"
 date: "2020-04-10"
-categories: 
-  - "story"
-coverImage: "papertowns.jpg"
+navigation: True
+cover: papertowns.jpg
+tags: [book, story]
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 Quentin, Q, lives across the street to Margo. He is infatuated with her since she moved into the neighborhood. They used to play together in their childhood.

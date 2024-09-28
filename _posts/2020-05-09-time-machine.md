@@ -1,9 +1,14 @@
 ---
+layout: post
+current: post
+navigation: True
+class: post-template
+subclass: 'post'
+author: shubhamdp
 title: "Time Machine"
 date: "2020-05-09"
-categories: 
-  - "writing"
-coverImage: "img_20200429_190659-e1589023298991.jpg"
+tags: [writing]
+cover: img_20200429_190659-e1589023298991.jpg
 ---
 
 On weekends, I prefer wandering the outskirts of the city, staring at the sunset, sunrises, cool skies. But in these difficult times, it's kinda impossible. So, I use this "time machine", **Google Photos**, to take a dig down the memory lane, relieving the sunsets, sunrises, the woods in the outskirts of the city.

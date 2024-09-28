@@ -1,10 +1,14 @@
 ---
+layout: post
+current: post
 title: "Me Before You"
+navigation: True
 date: "2020-04-10"
-categories: 
-  - "book"
-  - "story"
-coverImage: "61psfjhwkll-e1589128271660.jpg"
+cover: 61psfjhwkll-e1589128271660.jpg
+tags: [book, story]
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 Me Before You
