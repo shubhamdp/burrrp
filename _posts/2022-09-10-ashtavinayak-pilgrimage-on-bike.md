@@ -39,7 +39,7 @@ I asked a few friends if they would like to join, but none cared, wished me luck
 
 Approximate distances
 
-![](images/screenshot-2022-08-04-at-23.28.34.png)
+![map with distances](images/screenshot-2022-08-04-at-23.28.34.png)
 
 
 ## Saturday 13th August 2022
