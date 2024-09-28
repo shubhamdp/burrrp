@@ -2,7 +2,7 @@
 title: "Magic Potion
 date: "2019-02-10"
 tags: [story]
-cover: cover/magic-potion.jpeg
+cover: magic-potion.jpeg
 layout: post
 current: post
 navigation: True
