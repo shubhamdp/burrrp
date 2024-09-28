@@ -1,9 +1,14 @@
 ---
 title: "Google's way of feeding captcha"
 date: "2019-02-10"
-categories: 
-  - "tech"
+tags: [tech]
 coverImage: "3ebf69d9497d4f48a615f84aa6a73e45_c739ffa225874b9294ea3125e2c04557_header-e1589129160684.jpeg"
+layout: post
+current: post
+navigation: True
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 You and your friends make a plan to travel by train. You open Google Chrome and enter www.irctc.co.in. You fill in the user name, password and an extra field which challenges you to identify random alphanumeric characters. This extra verification field is called as captcha, this is intended to avoid automated machine logins. It is a way to distinguish human and machine inputs, this helps to prevent spam and automated data extraction from websites.

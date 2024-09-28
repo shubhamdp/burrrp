@@ -14,3 +14,14 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+travel:
+  name: travel
+  description: travel experiences
+  cover: False
+solo:
+  name: solo
+  description: solo adventures
+book:
+  name: book
+  description: Book reviews or abstract
+  cover: False

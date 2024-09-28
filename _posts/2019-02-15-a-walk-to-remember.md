@@ -2,6 +2,12 @@
 title: "A Walk to Remember"
 date: "2019-02-15"
 coverImage: "walktoremember_article_large-e1589128013255.jpg"
+layout: post
+current: post
+navigation: True
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 Love story by Nicolas Sparks which unfolds gradually.

@@ -1,12 +1,14 @@
 ---
 title: "Ashtavinayak pilgrimage on bike"
 date: "2022-09-10"
-categories: 
-  - "adventure"
-  - "travel"
-tags: 
-  - "solo"
+tags: [solo, adventure, travel]
 coverImage: "befunky-collage.jpeg"
+layout: post
+current: post
+navigation: True
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 637 km, 8 places, 2 days, and 1 Yamaha FZs.

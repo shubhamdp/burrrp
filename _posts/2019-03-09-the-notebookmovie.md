@@ -1,10 +1,14 @@
 ---
 title: "The Notebook(Movie)"
 date: "2019-03-09"
-categories: 
-  - "movie"
-  - "story"
+tags: [movie, story]
 coverImage: "62949621178548e272e58e9dace88a38-e1589128387730.jpg"
+layout: post
+current: post
+navigation: True
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 'The Notebook' is a romantic drama based on the novel 'The Notebook' by Nicolas Sparks. Noah is played by Ryan Gosling and Allie by Rachel McAdams. The Movie starts with an elderly man at old age home, he reads a love story to his fellow patient who has lost her memory.

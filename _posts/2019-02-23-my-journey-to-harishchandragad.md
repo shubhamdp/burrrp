@@ -1,10 +1,14 @@
 ---
 title: "My journey to Harishchandragad"
 date: "2019-02-23"
-categories: 
-  - "adventure"
-  - "travel"
+tags[ adventure, travel]
 coverImage: "img_20190217_070911611_hdr-1.jpg"
+layout: post
+current: post
+navigation: True
+class: post-template
+subclass: 'post'
+author: shubhamdp
 ---
 
 We planned, packed our bags and en routed to Pachnai, one of the base villages to reach the top of Harishchandragad . Harishchandragad is one of the well known forts for camping in Ahmadnagar district. Harishchandragad is situated at 1422 meters from sea level. One can reach Harishchandragad top via three routes.
