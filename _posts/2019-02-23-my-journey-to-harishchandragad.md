@@ -19,19 +19,19 @@ We planned, packed our bags and en routed to Pachnai, one of the base villages t
 
 **_1._**
 
-![IMG_20190217_070535738.jpg](/assets/images/img_20190217_070535738.jpg) **_Kokan Kada: It is a curved cliff, from here onward Kokan region starts. This is where all the hikers set up their tents._**
+![IMG_20190217_070535738.jpg](/burrrp/assets/images/img_20190217_070535738.jpg) **_Kokan Kada: It is a curved cliff, from here onward Kokan region starts. This is where all the hikers set up their tents._**
 
  
 
 **_2._**
 
-![IMG_20190217_085332659.jpg](/assets/images/img_20190217_085332659.jpg) **_Kedareshwar Temple and caves: Temple of Lord Shiva, this temple has sources of fresh water which is available all year._**
+![IMG_20190217_085332659.jpg](/burrrp/assets/images/img_20190217_085332659.jpg) **_Kedareshwar Temple and caves: Temple of Lord Shiva, this temple has sources of fresh water which is available all year._**
 
  
 
 **_3._**
 
-![IMG_20190216_184518435_HDR.jpg](/assets/images/img_20190216_184518435_hdr.jpg) **_Taramati Peak: It is the highest point on Harishchandragad and one can experience sunrise and sunset from here._**
+![IMG_20190216_184518435_HDR.jpg](/burrrp/assets/images/img_20190216_184518435_hdr.jpg) **_Taramati Peak: It is the highest point on Harishchandragad and one can experience sunrise and sunset from here._**
 
 _**Our journey:**_ After hiking Rajgad, we knew the fitness level of the weakest member in our company, hence we chose the easiest route, via Pachnai. Zoomcar seemed to be the most convenient option to reach Pachnai. We started at 9 a.m. from Pune on Saturday morning and reached Pachnai by 3 p.m. We had a light breakfast in the morning, our stomachs were craving for anything available at the earliest and Bhurji Paav served as a hunger savior. We started hiking the trail around 3.15 p.m, it is quite an easy trail to hike. We reached Kokan Kada in 2 Hrs. Kokan Kada is one of the main attractionS on Harishchandragad fort.
 
@@ -39,6 +39,6 @@ We met an elderly man on the way towards Kokan Kada. He told us that his son run
 
 We set up tent swiftly and washed our hands as we were famished due to the adventure. We had Aloo Matki and Bajri Bhakri in dinner, anything would have tasted great at that point of time. After dinner, we lighted the bonfire and sat around it. The warmth from that bonfire was much needed in that chilling cold. We sat discussing A number of topics, making fun of each other and deciding the next camping location. Early morning some groups left for Mt. Taramati for experiencing the sunrise and we were in tents sleeping, trying to escape the chilling cold. We had a light breakfast, unset our tents and packed our bags and started return journey towards Pachnai. Descending the trail is easier so, we were at the base in 1 and half hour.
 
-![IMG_20190216_183447](/assets/images/img_20190216_183447.jpg) **_Sunset from Taramati Peak_**
+![IMG_20190216_183447](/burrrp/assets/images/img_20190216_183447.jpg) **_Sunset from Taramati Peak_**
 
 It was an unforgettable experience, sunset, sunrise, bhandardara lake, bonfire and freezing wind near Kokan Kada. I would love to hike this top once more. I don't know whoever said that "adventure fills your soul", I think I just validated it.
