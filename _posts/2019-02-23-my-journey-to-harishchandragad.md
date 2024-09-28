@@ -1,7 +1,7 @@
 ---
 title: "My journey to Harishchandragad"
 date: "2019-02-23"
-tags[ adventure, travel]
+tags: [adventure, travel]
 cover: "img_20190217_070911611_hdr-1.jpg"
 layout: post
 current: post
