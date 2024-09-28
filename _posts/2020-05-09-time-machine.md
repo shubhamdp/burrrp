@@ -13,13 +13,13 @@ cover: assets/images/time-machine.jpg
 
 On weekends, I prefer wandering the outskirts of the city, staring at the sunset, sunrises, cool skies. But in these difficult times, it's kinda impossible. So, I use this "time machine", **Google Photos**, to take a dig down the memory lane, relieving the sunsets, sunrises, the woods in the outskirts of the city.
 
-![IMG_20200229_070321588](assets/images/img_20200229_070321588.jpg) Sunrise from Sinhgad Fort.
+![IMG_20200229_070321588](/assets/images/img_20200229_070321588.jpg) Sunrise from Sinhgad Fort.
 
 Sometimes lost on the bicycle try to find the way home, I only remember the moments in journey, I never really cared about thet destination. Cause I have to make it to the home anyway 😜.
 
 Memories made, the laughter, the giggles, the fun, oh how can one forget the adventure. Little breakthroughs, its celebrations, sad moments, setbacks(though we hardly capture the sad moments).
 
-![DSC_0211_13_02](assets/images/dsc_0211_13_02.jpg) Sunset from Arambol Mountain.
+![DSC_0211_13_02](/assets/images/dsc_0211_13_02.jpg) Sunset from Arambol Mountain.
 
 Staring at the photo and remembering the story that picture is telling you. Still scrolling down the photos going back in time, a year back, 2 years back, and so on till you hit the bottom of few thousand photos.
 
