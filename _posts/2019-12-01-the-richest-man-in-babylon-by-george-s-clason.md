@@ -8,6 +8,7 @@ navigation: True
 class: post-template
 subclass: 'post'
 author: shubhamdp
+tags: [book, finance]
 ---
 
 > **_Money is plentiful for those who understand the simple rules of its acquisition_**

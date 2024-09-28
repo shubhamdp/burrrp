@@ -8,6 +8,7 @@ navigation: True
 class: post-template
 subclass: 'post'
 author: shubhamdp
+tags: [romance, book, story]
 ---
 
 Love story by Nicolas Sparks which unfolds gradually.

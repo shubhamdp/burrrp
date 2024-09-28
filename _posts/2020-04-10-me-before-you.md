@@ -5,7 +5,7 @@ title: "Me Before You"
 navigation: True
 date: "2020-04-10"
 cover: assets/images/me-before-you.jpg
-tags: [book, story]
+tags: [book, story, romance]
 class: post-template
 subclass: 'post'
 author: shubhamdp

@@ -1,7 +1,7 @@
 ---
 title: "My journey to Harishchandragad"
 date: "2019-02-23"
-tags: [adventure, travel]
+tags: [adventure, travel, hike, camping]
 cover: assets/images/harishchandragad.jpg
 layout: post
 current: post
