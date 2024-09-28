@@ -2,7 +2,7 @@
 title: "Google's way of feeding captcha"
 date: "2019-02-10"
 tags: [tech]
-cover: captcha.jpeg
+cover: assets/images/captcha.jpeg
 layout: post
 current: post
 navigation: True

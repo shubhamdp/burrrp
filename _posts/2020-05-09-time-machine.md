@@ -8,7 +8,7 @@ author: shubhamdp
 title: "Time Machine"
 date: "2020-05-09"
 tags: [writing]
-cover: time-machine.jpg
+cover: assets/images/time-machine.jpg
 ---
 
 On weekends, I prefer wandering the outskirts of the city, staring at the sunset, sunrises, cool skies. But in these difficult times, it's kinda impossible. So, I use this "time machine", **Google Photos**, to take a dig down the memory lane, relieving the sunsets, sunrises, the woods in the outskirts of the city.

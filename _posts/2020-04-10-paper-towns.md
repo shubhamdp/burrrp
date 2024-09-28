@@ -4,7 +4,7 @@ current: post
 title: "Paper Towns"
 date: "2020-04-10"
 navigation: True
-cover: papertowns.jpg
+cover: assets/images/papertowns.jpg
 tags: [book, story]
 class: post-template
 subclass: 'post'

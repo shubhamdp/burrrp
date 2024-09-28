@@ -4,7 +4,7 @@ current: post
 title: "Me Before You"
 navigation: True
 date: "2020-04-10"
-cover: me-before-you.jpg
+cover: assets/images/me-before-you.jpg
 tags: [book, story]
 class: post-template
 subclass: 'post'

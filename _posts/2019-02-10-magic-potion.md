@@ -1,8 +1,8 @@
 ---
-title: "Magic Potion
+title: "Magic Potion"
 date: "2019-02-10"
 tags: [story]
-cover: magic-potion.jpeg
+cover: assets/images/magic-potion.jpeg
 layout: post
 current: post
 navigation: True

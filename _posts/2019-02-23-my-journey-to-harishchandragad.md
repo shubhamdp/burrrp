@@ -2,7 +2,7 @@
 title: "My journey to Harishchandragad"
 date: "2019-02-23"
 tags: [adventure, travel]
-cover: harishchandragad.jpg
+cover: assets/images/harishchandragad.jpg
 layout: post
 current: post
 navigation: True

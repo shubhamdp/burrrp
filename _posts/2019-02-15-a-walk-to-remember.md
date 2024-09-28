@@ -1,7 +1,7 @@
 ---
 title: "A Walk to Remember"
 date: "2019-02-15"
-cover: a-walk-to-remember.jpg
+cover: assets/images/a-walk-to-remember.jpg
 layout: post
 current: post
 navigation: True
