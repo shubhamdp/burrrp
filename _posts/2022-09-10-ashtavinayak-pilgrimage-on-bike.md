@@ -2,7 +2,7 @@
 title: "Ashtavinayak pilgrimage on bike"
 date: "2022-09-10"
 tags: [solo, adventure, travel]
-coverImage: "befunky-collage.jpeg"
+cover: "befunky-collage.jpeg"
 layout: post
 current: post
 navigation: True

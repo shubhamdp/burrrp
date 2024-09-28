@@ -1,7 +1,7 @@
 ---
 title: "A Walk to Remember"
 date: "2019-02-15"
-coverImage: "walktoremember_article_large-e1589128013255.jpg"
+cover: "walktoremember_article_large-e1589128013255.jpg"
 layout: post
 current: post
 navigation: True
