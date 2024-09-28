@@ -111,7 +111,3 @@ I was back home by 11:00 PM and that was the end of my ride.
 * ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/approach-road.jpg?w=555)
 * ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_190807.jpg?w=768)
 * ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_223114.jpg?w=1024)
-
-<script>
-    md_gallery();
-</script>
