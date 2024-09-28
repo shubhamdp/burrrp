@@ -10,11 +10,11 @@ baseurl: /burrrp/
 
 # Website info
 title: Nomad
-description: I blog in Markdown
-cover: assets/images/blog-cover.jpg
+description: travel/tech/experience dairies
+cover: assets/images/blog-cover.svg
 logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo_dark: assets/images/blog-icon.png
+favicon: assets/images/favicon.svg
 CNAME: #add cname for website to be created
 
 # Social info
