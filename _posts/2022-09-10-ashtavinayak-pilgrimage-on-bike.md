@@ -39,7 +39,7 @@ I asked a few friends if they would like to join, but none cared, wished me luck
 
 Approximate distances
 
-![map with distances](images/screenshot-2022-08-04-at-23.28.34.png)
+![map with distances](assets/images/screenshot-2022-08-04-at-23.28.34.png)
 
 
 ## Saturday 13th August 2022
@@ -87,21 +87,21 @@ I was driving back through the mighty Tamhini ghats in the night, it was raining
 
 I was back home by 11:00 PM and that was the end of my ride.
 
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_092007-copy.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_122141-copy.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_125506-copy.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_135109-copy.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_141634-copy.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_142144-copy.jpg?w=768)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_182356-copy.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_080859.jpg?w=768)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_083151.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_083226.jpg?w=768)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_090243.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_100548.jpg?w=768)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_115657.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_115709.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_124014.jpg?w=1024)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/approach-road.jpg?w=555)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_190807.jpg?w=768)
-* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_223114.jpg?w=1024)
+* ![](assets/images/20220813_092007-copy.jpg)
+* ![](assets/images/20220813_122141-copy.jpg)
+* ![](assets/images/20220813_125506-copy.jpg)
+* ![](assets/images/20220813_135109-copy.jpg)
+* ![](assets/images/20220813_141634-copy.jpg)
+* ![](assets/images/20220813_142144-copy.jpg)
+* ![](assets/images/20220813_182356-copy.jpg)
+* ![](assets/images/20220814_080859.jpg)
+* ![](assets/images/20220814_083151.jpg)
+* ![](assets/images/20220814_083226.jpg)
+* ![](assets/images/20220814_090243.jpg)
+* ![](assets/images/20220814_100548.jpg)
+* ![](assets/images/20220814_115657.jpg)
+* ![](assets/images/20220814_115709.jpg)
+* ![](assets/images/20220814_124014.jpg)
+* ![](assets/images/approach-road.jpg)
+* ![](assets/images/20220814_190807.jpg)
+* ![](assets/images/20220814_223114.jpg)
