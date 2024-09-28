@@ -1,7 +1,7 @@
 ---
 title: "The Richest Man in Babylon by George S. Clason"
 date: "2019-12-01"
-cover: "61m8whhif6l-e1589128323308.jpg"
+cover: cover/richest-man.jpg
 layout: post
 current: post
 navigation: True

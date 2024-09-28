@@ -2,7 +2,7 @@
 title: "The Notebook(Movie)"
 date: "2019-03-09"
 tags: [movie, story]
-cover: "62949621178548e272e58e9dace88a38-e1589128387730.jpg"
+cover: cover/the-notebook.jpg
 layout: post
 current: post
 navigation: True
