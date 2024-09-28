@@ -20,22 +20,15 @@ It had been three years now that I had been dreaming/planning to do this. I star
 Ashtavinayak; Ashta means Eight, and Vinayak is one of the names of Shri Ganpati. These temples are considered the eight most holy places in Maharashtra. They are all situated around Pune, and each temple has a unique architecture and idol.
 
 1. Shree Chintamani, Theur
+2. Shree Mayureshwar, Morgaon
+3. Shree Siddhivinayak, Siddhatek
+4. Shree Mahaganapati, Ranjangaon
+5. Shree Vighnahar Ganapati, Ozar
+6. Shree Girijatmaj, Lenyadri
+7. Shree Varadvinayak, Mahad
+8. Shree Ballaleshwar, Pali
 
-3. Shree Mayureshwar, Morgaon
-
-5. Shree Siddhivinayak, Siddhatek
-
-7. Shree Mahaganapati, Ranjangaon
-
-9. Shree Vighnahar Ganapati, Ozar
-
-11. Shree Girijatmaj, Lenyadri
-
-13. Shree Varadvinayak, Mahad
-
-15. Shree Ballaleshwar, Pali
-
-\[googlemaps https://www.google.com/maps/d/embed?mid=1e4SwWIpbn7SRKG-aXonCQ51XJ15sA0Wx&hl=en&ehbc=2E312F&w=640&h=480\]
+<iframe src="https://www.google.com/maps/d/embed?mid=1e4SwWIpbn7SRKG-aXonCQ51XJ15sA0Wx&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
 Finally, there was a long weekend (13th, 14th, and 15th of August) due to a holiday on Indian Independence day. I was confused about whether to visit Varanasi or go on the Ashtavinayak bike trip. But, money matters 😅, and I hopped on a bike to fulfill the long pending desire.
 
@@ -45,7 +38,7 @@ I asked a few friends if they would like to join, but none cared, wished me luck
 
 <figure>
 
-[![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/screenshot-2022-08-04-at-23.28.34.png?w=1024)](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/screenshot-2022-08-04-at-23.28.34.png)
+![](imagess/screenshot-2022-08-04-at-23.28.34.png)
 
 <figcaption>
 
@@ -100,21 +93,25 @@ I was driving back through the mighty Tamhini ghats in the night, it was raining
 
 I was back home by 11:00 PM and that was the end of my ride.
 
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_092007-copy.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_122141-copy.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_125506-copy.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_135109-copy.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_141634-copy.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_142144-copy.jpg?w=768)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_182356-copy.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_080859.jpg?w=768)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_083151.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_083226.jpg?w=768)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_090243.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_100548.jpg?w=768)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_115657.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_115709.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_124014.jpg?w=1024)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/approach-road.jpg?w=555)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_190807.jpg?w=768)
-- ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_223114.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_092007-copy.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_122141-copy.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_125506-copy.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_135109-copy.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_141634-copy.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_142144-copy.jpg?w=768)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220813_182356-copy.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_080859.jpg?w=768)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_083151.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_083226.jpg?w=768)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_090243.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_100548.jpg?w=768)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_115657.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_115709.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_124014.jpg?w=1024)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/approach-road.jpg?w=555)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_190807.jpg?w=768)
+* ![](https://shubhamdp.wordpress.com/wp-content/uploads/2022/09/20220814_223114.jpg?w=1024)
+
+<script>
+    md_gallery();
+</script>
