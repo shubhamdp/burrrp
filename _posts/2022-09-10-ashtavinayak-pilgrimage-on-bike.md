@@ -87,21 +87,7 @@ I was driving back through the mighty Tamhini ghats in the night, it was raining
 
 I was back home by 11:00 PM and that was the end of my ride.
 
-* ![](/burrrp/assets/images/20220813_092007-copy.jpg)
-* ![](/burrrp/assets/images/20220813_122141-copy.jpg)
-* ![](/burrrp/assets/images/20220813_125506-copy.jpg)
-* ![](/burrrp/assets/images/20220813_135109-copy.jpg)
-* ![](/burrrp/assets/images/20220813_141634-copy.jpg)
-* ![](/burrrp/assets/images/20220813_142144-copy.jpg)
-* ![](/burrrp/assets/images/20220813_182356-copy.jpg)
-* ![](/burrrp/assets/images/20220814_080859.jpg)
-* ![](/burrrp/assets/images/20220814_083151.jpg)
-* ![](/burrrp/assets/images/20220814_083226.jpg)
-* ![](/burrrp/assets/images/20220814_090243.jpg)
-* ![](/burrrp/assets/images/20220814_100548.jpg)
-* ![](/burrrp/assets/images/20220814_115657.jpg)
-* ![](/burrrp/assets/images/20220814_115709.jpg)
-* ![](/burrrp/assets/images/20220814_124014.jpg)
-* ![](/burrrp/assets/images/approach-road.jpg)
-* ![](/burrrp/assets/images/20220814_190807.jpg)
-* ![](/burrrp/assets/images/20220814_223114.jpg)
+#### Image Gallary
+<section class="subscribe-form">
+    {% include image-gallery.html folder="/assets/images" %}
+</section>
