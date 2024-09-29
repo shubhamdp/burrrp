@@ -89,5 +89,5 @@ I was back home by 11:00 PM and that was the end of my ride.
 
 #### Image Gallary
 <section class="subscribe-form">
-    {% include image-gallery.html folder="/assets/images" %}
+    {% include image-gallery.html folder="/assets/images/ashtavinayak" %}
 </section>
