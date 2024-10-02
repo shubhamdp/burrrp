@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#001f3f"/>
+      <stop offset="100%" style="stop-color:#1a3a5e"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF0000"/>
+      <stop offset="50%" style="stop-color:#FF8000"/>
+      <stop offset="100%" style="stop-color:#FFD700"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dynamic sky background -->
+  <rect width="1200" height="630" fill="url(#skyGradient)"/>
+
+  <!-- Stars -->
+  <g fill="#FFFFFF">
+    <circle cx="100" cy="50" r="2"/>
+    <circle cx="300" cy="30" r="1.5"/>
+    <circle cx="500" cy="70" r="2"/>
+    <circle cx="700" cy="40" r="1.5"/>
+    <circle cx="900" cy="60" r="2"/>
+    <circle cx="1100" cy="80" r="1.5"/>
+  </g>
+
+  <!-- Moon -->
+  <circle cx="1000" cy="100" r="40" fill="#FFDB58"/>
+  <circle cx="980" cy="90" r="35" fill="url(#skyGradient)"/>
+
+  <!-- Mountain range -->
+  <polygon points="0,630 300,250 600,450 900,200 1200,630" fill="#1a2533"/>
+  <polygon points="0,630 150,400 300,500 450,300 600,630" fill="#263a4d"/>
+  <polygon points="600,630 750,350 900,500 1050,400 1200,630" fill="#263a4d"/>
+
+  <!-- Snow caps -->
+  <polygon points="285,270 300,250 315,270" fill="#FFFFFF"/>
+  <polygon points="885,220 900,200 915,220" fill="#FFFFFF"/>
+  <polygon points="735,370 750,350 765,370" fill="#FFFFFF"/>
+
+  <!-- Central logo circle -->
+  <circle cx="600" cy="315" r="200" fill="#2A2A2A" opacity="0.8"/>
+
+  <!-- !mad text -->
+  <text x="600" y="340" font-family="Arial, sans-serif" font-size="120" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
+    <tspan fill="#FF0000">!</tspan>
+    <tspan>mad</tspan>
+  </text>
+
+  <!-- Airplane silhouette -->
+  <path d="M50,200 L80,190 L100,200 L80,210 Z" fill="#FFFFFF">
+    <animateMotion path="M0,0 Q600,100 1200,0" dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Shooting star -->
+  <line x1="1100" y1="50" x2="1150" y2="100" stroke="#FFFFFF" stroke-width="2">
+    <animate attributeName="x1" from="1100" to="1000" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y1" from="50" to="150" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x2" from="1150" to="1050" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y2" from="100" to="200" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>

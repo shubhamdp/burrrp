@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://shubhamdp.github.io/burrrp/tag/tech/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://shubhamdp.github.io/burrrp/" rel="alternate" type="text/html" />
+  <updated>2024-10-02T06:54:01+00:00</updated>
+  <id>https://shubhamdp.github.io/burrrp/tag/tech/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Nomad | </title>
+  
+
+  
+    <subtitle>Travel, Tech, and Experience Dairies</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Google’s way of feeding captcha</title>
+      <link href="https://shubhamdp.github.io/burrrp/googles-way-of-feeding-captcha" rel="alternate" type="text/html" title="Google's way of feeding captcha" />
+      <published>2019-02-10T00:00:00+00:00</published>
+      <updated>2019-02-10T00:00:00+00:00</updated>
+      <id>https://shubhamdp.github.io/burrrp/googles-way-of-feeding-captcha</id>
+      <content type="html" xml:base="https://shubhamdp.github.io/burrrp/googles-way-of-feeding-captcha">&lt;p&gt;You and your friends make a plan to travel by train. You open Google Chrome and enter www.irctc.co.in. You fill in the user name, password and an extra field which challenges you to identify random alphanumeric characters. This extra verification field is called as captcha, this is intended to avoid automated machine logins. It is a way to distinguish human and machine inputs, this helps to prevent spam and automated data extraction from websites.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/burrrp/assets/images/irctc_autofill_16-e1549795638612.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In earlier days, captcha was text based. In recent days Google has started using images in its captcha. If you have come across Google’s captcha, it requests you to click images of traffic signals, buses, zebra crossing, cars. Have you ever thought why it did not ask for an airplane, apples, anything else other than images related to driving? This move by Google is intended to help its self-driving project. Indirectly we are helping Google to train its self-driving car’s Machine Learning model which identifies bus, cars, pedestrian, trees, signals, zebra crossing kind of objects. This will help its ML model to identify objects more precisely.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/burrrp/assets/images/captcha1.png&quot; alt=&quot;captcha1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many memes around Google’s self-driving car project. This meme caught my attention more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/burrrp/assets/images/2d67497.jpg&quot; alt=&quot;2d67497&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many more ways of collecting data from a user, I enlisted one. I don’t think Google is doing anything wrong here. Google is helping mankind in the best way possible, you get to use its services for free. Then what is wrong if we are helping it back.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Shubham Patil</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tech" />
+      
+
+      
+        <summary type="html">You and your friends make a plan to travel by train. You open Google Chrome and enter www.irctc.co.in. You fill in the user name, password and an extra field which challenges you to identify random alphanumeric characters. This extra verification field is called as captcha, this is intended to avoid automated machine logins. It is a way to distinguish human and machine inputs, this helps to prevent spam and automated data extraction from websites.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
