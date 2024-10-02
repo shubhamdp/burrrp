@@ -2,7 +2,7 @@
 title: "Magic Potion"
 date: "2019-02-10"
 tags: [story, book]
-cover: assets/images/magic-potion.jpg
+cover: assets/images/cover/magic-potion.jpg
 layout: post
 current: post
 navigation: True

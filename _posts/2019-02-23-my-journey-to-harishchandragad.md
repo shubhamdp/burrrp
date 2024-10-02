@@ -2,7 +2,7 @@
 title: "My journey to Harishchandragad"
 date: "2019-02-23"
 tags: [adventure, travel, hike, camping]
-cover: assets/images/harishchandragad.jpg
+cover: assets/images/cover/harishchandragad.jpg
 layout: post
 current: post
 navigation: True
@@ -20,7 +20,6 @@ We planned, packed our bags and en routed to Pachnai, one of the base villages t
 **Attractions:**
 
 ![IMG_20190217_070535738.jpg](/burrrp/assets/images/harishchandragad.jpg) **_Kokan Kada: It is a curved cliff, from here onward Kokan region starts. This is where all the hikers set up their tents._**
-
  
 ![IMG_20190217_085332659.jpg](/burrrp/assets/images/img_20190217_085332659.jpg) **_Kedareshwar Temple and caves: Temple of Lord Shiva, this temple has sources of fresh water which is available all year._**
 
