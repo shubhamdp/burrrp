@@ -13,23 +13,16 @@ author: shubhamdp
 
 We planned, packed our bags and en routed to Pachnai, one of the base villages to reach the top of Harishchandragad . Harishchandragad is one of the well known forts for camping in Ahmadnagar district. Harishchandragad is situated at 1422 meters from sea level. One can reach Harishchandragad top via three routes.
 
-1\. Pachnai, easiest one, takes around 2 Hrs 2. Khireshwar, easiest but takes around 4 Hrs to hike to the top 3. Nalichi vaat, this one is the hardest, has some rocky patches and require the assistance of ropes and safety harness
+1. Pachnai, easiest one, takes around 2 Hrs
+2. Khireshwar, easiest but takes around 4 Hrs to hike to the top
+3. Nalichi vaat, this one is the hardest, has some rocky patches and require the assistance of ropes and safety harness
 
-**_Attractions: _**
+**Attractions:**
 
-**_1._**
-
-![IMG_20190217_070535738.jpg](/burrrp/assets/images/img_20190217_070535738.jpg) **_Kokan Kada: It is a curved cliff, from here onward Kokan region starts. This is where all the hikers set up their tents._**
+![IMG_20190217_070535738.jpg](/burrrp/assets/images/harishchandragad.jpg) **_Kokan Kada: It is a curved cliff, from here onward Kokan region starts. This is where all the hikers set up their tents._**
 
  
-
-**_2._**
-
 ![IMG_20190217_085332659.jpg](/burrrp/assets/images/img_20190217_085332659.jpg) **_Kedareshwar Temple and caves: Temple of Lord Shiva, this temple has sources of fresh water which is available all year._**
-
- 
-
-**_3._**
 
 ![IMG_20190216_184518435_HDR.jpg](/burrrp/assets/images/img_20190216_184518435_hdr.jpg) **_Taramati Peak: It is the highest point on Harishchandragad and one can experience sunrise and sunset from here._**
 
