@@ -10,7 +10,7 @@ subclass: 'post page'
 
 Sometimes I write, and even then I prefer writing in markdown.
 
-you can find my blog at [https://shubhamdp.github.io/burrrp](https://shubhamdp.github.io/burrrp).
+you can find my blog at [https://shubhamdp.github.io/blog](https://shubhamdp.github.io/blog).
 
 My open-source work at [https://github.com/shubhamdp](https://github.com/shubhamdp).
 
